@@ -756,7 +756,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   pipe: {fileID: 5130197220522207941, guid: 59368a2a0c758264c8ae053b786af680, type: 3}
-  spawnRate: 5
+  spawnRate: 1
   pipeOffset: 5
 --- !u!1 &1038101489
 GameObject:
@@ -1068,6 +1068,7 @@ MonoBehaviour:
   controlPrompt: {fileID: 1791605272}
   gameOverScreen: {fileID: 1702560276}
   pipeSpawner: {fileID: 993377919}
+  highScore: 0
 --- !u!4 &1845312610
 Transform:
   m_ObjectHideFlags: 0
